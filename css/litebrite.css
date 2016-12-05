@@ -1,0 +1,107 @@
+body {
+	font-family: verdana;
+	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 10pt;
+}
+
+input,
+textarea,
+.textbox {
+	font-family: verdana;
+	font-size: 10pt;
+	color: #FFFF00;
+	background: #0000C6;
+	border: #CC0000 1px solid;
+}
+
+select {
+	font-size: 10pt;
+	font-family: verdana;
+	color: #FFFF00;
+	background: #0000C6;
+	border: #CC0000 1px solid;
+}
+
+img {
+	border: 0px;
+}
+
+.outborder {
+	color: #FFFFFF;
+	padding: 4px;
+	border: 2px #CC0000 solid;
+	background: #0000C6;
+}
+
+.innerborder {
+	border: 2px #F0C000 solid;
+	background: #000000;
+	padding: 5px;
+	font-size: 10pt;
+}
+
+td {
+	font-size: 10pt;
+}
+
+a {
+	color: #FFCC00;
+}
+
+#title {
+	float: left;
+	text-indent: -2000em;
+	height: 92px;
+	width: 750px;
+	background: url('/media/title.png');
+}
+
+h2 {
+	font-size: 18px;
+	font-weight: normal;
+}
+
+p.comment {
+	color: #000000;
+	border: 1px solid #ff0000;
+	background: #ffffff;
+	padding: 5px;
+	margin: 0 0 10px 0;
+}
+
+#nav {
+	list-style: none;
+}
+
+#nav li {
+	display: block;
+	margin-left: 10px;
+}
+
+#recaptcha_response_field {
+	color: #000000;
+	background: #ffffff;
+}
+
+.pnum {
+	display: inline-block;
+	width: 30px;
+}
+
+td.gallery_main {
+	width: 875px;
+	text-align: center;
+	vertical-align: top;
+}
+
+td.npNav {
+	width: 75px;
+	text-align: center;
+	vertical-align: top;
+}
+
+.big_g_nav {
+	font-size: 94px;
+	text-decoration: none;
+}
