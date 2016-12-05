@@ -54,7 +54,7 @@ a {
 	text-indent: -2000em;
 	height: 92px;
 	width: 750px;
-	background: url('./media/title.png');
+	background: url('./../media/title.png');
 }
 
 h2 {
